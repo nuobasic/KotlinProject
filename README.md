@@ -43,5 +43,5 @@
 |---------------------|----------|--------------------------------------|
 | 주문 등록           | `POST`   | `/api/order`       |
 | 주문 전체 조회      | `GET`    | `/api/order/{userId}`       |
-| 주문  조회          | `GET`    | `/api/order/{userId}/{orderId}/`      |
+| 주문  조회          | `GET`    | `/api/order/{userId}/{orderId}`      |
 
